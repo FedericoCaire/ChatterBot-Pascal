@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Chatterbot.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="39" Y="3"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="interacciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Interacciones"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="29" Y="38"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejolistadepalabras.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ManejoListaDePalabras"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="32" Y="39"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="limpiezalista.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LimpiezaLista"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="68" Y="38"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="comparaciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Comparaciones"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="73" Y="68"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="archivos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Archivos"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="37"/>
+        <CursorPos X="147" Y="27"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="funciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Funciones"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="4"/>
+        <CursorPos X="81" Y="51"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="listas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LISTAS"/>
+        <EditorIndex Value="7"/>
+        <CursorPos Y="9"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="listas.pas"/>
+        <Caret Line="115" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="Chatterbot.lpr"/>
+        <Caret Line="3" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="19" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="20" Column="59" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="35" Column="25" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="manejolistadepalabras.pas"/>
+        <Caret Line="65" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="funciones.pas"/>
+        <Caret Line="7" Column="31" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="43" Column="8" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="26" Column="58" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="29" Column="23" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="funciones.pas"/>
+        <Caret Line="36" Column="33" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="50" Column="33" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="29" Column="29" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="48" Column="65"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="34" Column="11" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="42" Column="6" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="24" Column="3" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="28" Column="57" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="25" Column="87" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="36" Column="53" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="74" Column="40" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="41" Column="15" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="42" Column="5" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="46" Column="17" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="41" Column="49" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="42" Column="12" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="10" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="39" Column="5" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="interacciones.pas"/>
+        <Caret Line="38" Column="29" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="comparaciones.pas"/>
+        <Caret Line="76" Column="42" TopLine="56"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
